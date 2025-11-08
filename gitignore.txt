@@ -1,0 +1,35 @@
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and system files
+*.log
+logs/
+debug.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dependency files
+Pipfile
+Pipfile.lock
+
+# Ignore data files (optional)
+*.csv
+*.db
+*.sqlite3
+
+# Ignore deployment files (optional)
+.DS_Store
+*.bak
