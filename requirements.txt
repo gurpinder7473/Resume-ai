@@ -1,4 +1,4 @@
 streamlit
-pdfminer.six
 spacy
+pdfminer.six
 scikit-learn
