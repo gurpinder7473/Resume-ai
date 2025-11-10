@@ -1,7 +1,9 @@
 streamlit
 pandas
 numpy
-PyPDF2
-python-docx
 sentence-transformers
 torch
+PyMuPDF
+fpdf
+scikit-learn
+openpyxl
