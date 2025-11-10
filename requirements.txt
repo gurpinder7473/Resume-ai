@@ -1,4 +1,7 @@
 streamlit
-spacy
-pdfminer.six
-scikit-learn
+pandas
+numpy
+PyPDF2
+python-docx
+sentence-transformers
+torch
